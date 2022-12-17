@@ -1,21 +1,21 @@
 {
     "BotSettings": {
-        "token": "TOKEN",
-        "owner": "SAHİP ID",
-        "prefix": "PREFİX",
-        "botStatus": "botclub.net",
-        "botVoiceChannelID": "BOTUN SESE GİRCEĞİ KANAL ID"
+        "token": "MTA1MjY4ODcxMjI0MjI5ODkyMA.GKAUll.NbYpEYoMMrBoV5aihmpNG0aOsmZh5k7yuMjq68",
+        "owner": "777627827905757225",
+        "prefix": ".",
+        "botStatus": "nycotinz <3 ASTECH",
+        "botVoiceChannelID": "1052231373349453824"
     },
     "Roles": {
-        "BoyRole1": "ERKEK ROL 1",
+        "BoyRole1": "1052230499873083483",
         "BoyRole2": "ERKEK ROL 2",
-        "GirlRole1": "KIZ ROL 1",
+        "GirlRole1": "1052230498476372078",
         "GirlRole2": "KIZ ROL 2",
-        "Unregister": "KAYITSIZ ROL",
-        "Registerer": "YETKİLİ ROL",
+        "Unregister": "1052230502158975118",
+        "Registerer": "1052230470051569704",
         "TagRole": "TAG ROL",
-        "Suspicious": "ŞÜPHELİ ROL",
-        "Jail": "JAİL ROL"
+        "Suspicious": "1052230486753284136",
+        "Jail": "1052230482454130738"
     },
         "Colors": {
             "Red": "ff0000",
@@ -27,19 +27,19 @@
             "Yellow": "ffff00"
     },
         "ServerSettings": {
-            "ServerName": "SUNUCU ADI",
-            "ServerID": "SERVER ID",
-            "Tag": "TAG",
+            "ServerName": "A S T E C H",
+            "ServerID": "1052230267949023304",
+            "Tag": "•",
             "UnTag": "UNTAG"
     },
         "Channels": {
-            "RegisterChat": "KAYIT CHAT",
+            "RegisterChat": "1052230831248257074,1052230838558928987",
             "TagLog": "TAG LOG",
-            "Rules": "KURALLAR CHAT",
-            "GeneralChat": "GENEL CHAT"
+            "Rules": "1052230887187697715",
+            "GeneralChat": "1052231062497021982"
         },
         "Welcome": {
-            "WelcomeChat": "HOŞGELDİN CHAT",
+            "WelcomeChat": "1052230831248257074",
             "WelcomeName": "• İsim | Yaş"
         }
 }
